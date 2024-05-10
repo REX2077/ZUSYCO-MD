@@ -16,8 +16,8 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94783570188",
-  SUDO_NUMBERS : "94784604369,94783570188",
+  OWNER_NUMBER: "94763231333",
+  SUDO_NUMBERS : "94763231333,94784604369",
   OWNER_NAME: "『 ✘⏤͟͟͞͞ 𝙍 𝙀 𝙓 𝙂 𝘼 𝙈 𝙄 𝙉 𝙂😌』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "ZUSYCO-QR",
@@ -38,7 +38,7 @@ module.exports = {
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
   BAD_WORDS : 'fuck,pussy,rexgay,misaki,pronhub,pron,xxx,sex',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
